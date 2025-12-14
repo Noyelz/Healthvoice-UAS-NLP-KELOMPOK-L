@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+pydantic
+openai-whisper
+sentence-transformers
+llama-cpp-python
+torch
+torchaudio
+numpy
+python-docx
+aiofiles
