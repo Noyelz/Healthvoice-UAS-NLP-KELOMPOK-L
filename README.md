@@ -75,10 +75,10 @@ CARA PENGGUNAAN
 3. Menu Dashboard:
    - Lihat daftar file yang selesai.
    - Download Teks: Unduh hasil transkrip mentah.
-   - Tanya Jawab (Q&A): Masukkan pertanyaan terkait transkrip.
-   - Download Laporan: Unduh file Word berisi sesi tanya-jawab.
+   - Download Laporan: Unduh file Word berisi sesi tanya-jawab dan teks mentah.
 
 TROUBLESHOOTING
 - Error "GPU Out of Memory": Tutup aplikasi lain yang menggunakan VRAM.
 - Error "Context Limit": Sistem akan otomatis mencoba memendekkan konteks jika jawaban gagal dibuat.
 - LLM Lambat: Pastikan llama-cpp-python terinstal dengan dukungan CUDA.
+
