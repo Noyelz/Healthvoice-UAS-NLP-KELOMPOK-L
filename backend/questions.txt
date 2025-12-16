@@ -1,0 +1,8 @@
+Nama Wali|Siapa nama wali/orang tua? Jawab HANYA namanya saja.
+Nama Pasien|Siapa nama pasien? Jawab HANYA namanya saja.
+Umur Pasien|Berapa umur pasien? Jawab singkat (contoh: '5 tahun').
+Penularan TB|Dari mana penularan TB? Apakah anaknya tertular atau bagaimana? Apakah jika anak tidak tertular, adakah solusinya jika ada teman/kerabat yang terkena?
+Gejala|Sebutkan gejala yang dialami. Jawab dengan daftar dipisahkan koma.
+Nutrisi|Sebutkan asupan nutrisi/makanan. Jawab dengan daftar dipisahkan koma.
+Strategi Pengobatan|Apa strategi/obat yang digunakan? Pengobatan seperti apa yang di sarankan oleh dokter? Apakah pasiennya mau minum obat? Apakah jika anak tidak mau minum obat, adakah solusinya?
+Harapan|Apa harapan keluarga? Harapan ibunya apa untuk anaknya, pengobatan, nutrisi atau makanan yang di konsumsi? Harapan kesembuhan anaknya? Harapan untuk pengobatan tb di masa depan?
